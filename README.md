@@ -2,25 +2,23 @@
 
 **Estudiante:** Sebastian Arley Solarte Melenje
 
-Proyecto Java para NetBeans que resuelve ejercicios de estructuras de datos con funciones recursivas: factorial, sumatorias, inversión y suma de dígitos, potencia, MCD, copia de cadenas, división y multiplicación por operaciones sucesivas, vectores, matrices, Fibonacci y Ackermann.
+Cada carpeta numerada es un proyecto Java independiente para abrir y ejecutar en NetBeans. Cada uno contiene su propio `src/Recursividad`, `nbproject` y clase `Principal`.
 
-## Ejecutar
+## Proyectos
 
-1. Abra NetBeans y seleccione **File > Open Project**.
-2. Seleccione esta carpeta (`Taller-Recursividad`).
-3. Ejecute el proyecto con **Run Project** (F6).
-4. Elija un ejercicio desde el menú de consola.
+1. Factorial
+2. Invertir número
+3. Serie armónica
+4. Suma de dígitos
+5. Sumatoria hasta n
+6. Potencia
+7. Máximo común divisor
+8. Copiar cadena
+9. División entera por restas sucesivas
+10. Multiplicación por sumas sucesivas
+11. Suma de vector
+12. Suma de matriz
+13. Fibonacci
+14. Ackermann
 
-La clase principal es `Recursividad.TallerRecursividad`.
-
-## Estructura
-
-```text
-Taller-Recursividad/
-├── src/Recursividad/
-│   ├── FuncionesRecursivas.java
-│   └── TallerRecursividad.java
-├── nbproject/
-├── build.xml
-└── README.md
-```
+Para ejecutarlos, abra individualmente la carpeta del ejercicio en NetBeans y use **Run Project** (F6).
